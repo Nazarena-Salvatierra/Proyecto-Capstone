@@ -125,6 +125,7 @@ python-dotenv para gestión segura de claves
 Este proyecto se encuentra bajo licencia MIT. Podés modificarlo y adaptarlo libremente.
 
 💬 Autores
+
 María Nazarena Salvatierra Gómez
 
 Lucas Carrizo
