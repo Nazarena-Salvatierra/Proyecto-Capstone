@@ -1,0 +1,60 @@
+{
+    "recetas": [
+        {
+            "nombre": "Pan Casero",
+            "ingredientes": [
+                "Harina 000",
+                "Agua",
+                "Levadura",
+                "Sal",
+                "Aceite"
+            ],
+            "pasos": [
+                "Mezclar todos los ingredientes en un bol.",
+                "Amasar durante 10 minutos hasta lograr una masa suave.",
+                "Dejar levar en lugar cálido durante 1 hora.",
+                "Formar los panes y hornear a 200°C por 30 minutos."
+            ],
+            "tiempo": "1 hora 40 minutos",
+            "consejo": "Usá harina de buena calidad y agua tibia para activar mejor la levadura."
+        },
+        {
+            "nombre": "Pan de Avena",
+            "ingredientes": [
+                "Harina integral",
+                "Avena",
+                "Miel",
+                "Levadura",
+                "Agua tibia",
+                "Sal"
+            ],
+            "pasos": [
+                "Disolver la levadura en agua tibia con miel.",
+                "Mezclar con la harina, avena y sal.",
+                "Amasar bien y dejar levar 1 hora.",
+                "Hornear a 190°C por 35 minutos."
+            ],
+            "tiempo": "1 hora 30 minutos",
+            "consejo": "Agregá un poco de avena por encima antes de hornear para decorar."
+        }
+    ],
+    "productos": [
+        {
+            "nombre": "Pan Casero",
+            "precio": 1500
+        },
+        {
+            "nombre": "Medialunas",
+            "precio": 2000
+        },
+        {
+            "nombre": "Pan de Avena",
+            "precio": 1800
+        },
+        {
+            "nombre": "Pan de Campo",
+            "precio": 1700
+        }
+    ],
+    "reservas": []
+}
