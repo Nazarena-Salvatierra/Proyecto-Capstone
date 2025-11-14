@@ -1,4 +1,6 @@
-🥖 Bot de Panadería LuNaTi
+🥖 Bot de Panadería LuNaTi : @panaderia_lunati_bot
+
+
 Bot de Telegram que simula la gestión de una panadería llamada LuNaTi. Permite a los clientes realizar pedidos y reservas, y a los trabajadores acceder a un menú interno para gestionar stock y pedidos.
 
 📌 Características principales
